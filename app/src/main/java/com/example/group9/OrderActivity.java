@@ -1,4 +1,4 @@
-package com.example.group13;
+package com.example.group9;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,7 +9,7 @@ import android.widget.TextView;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.group13.database.Database;
+import com.example.group9.database.Database;
 
 public class OrderActivity extends AppCompatActivity {
 

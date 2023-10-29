@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Foodie-Group13"
+rootProject.name = "Foodie-Group9"
 include(":app")
  

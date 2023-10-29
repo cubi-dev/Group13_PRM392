@@ -1,4 +1,4 @@
-package com.example.group13;
+package com.example.group9;
 
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -16,9 +16,9 @@ import android.widget.TextView;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.group13.adapter.CartAdapter;
-import com.example.group13.database.Database;
-import com.example.group13.model.Cart;
+import com.example.group9.adapter.CartAdapter;
+import com.example.group9.database.Database;
+import com.example.group9.model.Cart;
 
 import java.util.ArrayList;
 import java.util.List;

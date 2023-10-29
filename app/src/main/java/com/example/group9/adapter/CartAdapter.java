@@ -1,4 +1,4 @@
-package com.example.group13.adapter;
+package com.example.group9.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,8 +8,8 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.group13.R;
-import com.example.group13.model.Cart;
+import com.example.group9.R;
+import com.example.group9.model.Cart;
 
 import java.util.List;
 

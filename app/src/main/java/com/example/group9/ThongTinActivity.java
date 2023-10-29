@@ -1,4 +1,4 @@
-package com.example.group13;
+package com.example.group9;
 
 import androidx.fragment.app.FragmentActivity;
 
@@ -12,7 +12,7 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
-import com.example.group13.databinding.ActivityThongTinBinding;
+import com.example.group9.databinding.ActivityThongTinBinding;
 
 public class ThongTinActivity extends FragmentActivity implements OnMapReadyCallback {
 

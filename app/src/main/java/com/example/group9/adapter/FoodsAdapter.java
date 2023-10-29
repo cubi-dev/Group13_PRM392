@@ -1,4 +1,4 @@
-package com.example.group13.adapter;
+package com.example.group9.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -9,9 +9,9 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.group13.ProductDetail;
-import com.example.group13.R;
-import com.example.group13.model.Foods;
+import com.example.group9.ProductDetail;
+import com.example.group9.R;
+import com.example.group9.model.Foods;
 
 import java.text.DecimalFormat;
 import java.util.List;

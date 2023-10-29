@@ -1,4 +1,4 @@
-    package com.example.group13;
+    package com.example.group9;
 
     import android.content.Intent;
     import android.database.Cursor;
@@ -11,7 +11,7 @@
 
     import androidx.appcompat.app.AppCompatActivity;
 
-    import com.example.group13.database.Database;
+    import com.example.group9.database.Database;
 
     public class ProductDetail extends AppCompatActivity {
 
